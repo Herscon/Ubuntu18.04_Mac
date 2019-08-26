@@ -1,0 +1,18 @@
+参考连接： 
+https://www.cnblogs.com/feipeng8848/p/8970556.html
+https://www.cnblogs.com/lishanlei/p/9090404.html
+https://blog.csdn.net/white_idiot/article/details/88931162
+
+先安装Tweakool（优化）工具
+sudo apt-get install gnome-tweak-tool
+sudo apt-get install gnome-shell-extensions
+
+GTK主题 Gnome-OSC-HS--2-themes.tar
+
+图标 MacOSX-icon-theme.tar.xz
+
+桌面shell Sierra-compact-light.tar.xz
+
+Grub2Theme grub2-themes-master.zip
+
+壁纸 鬼刀风铃公主.zip 沙滩1920X1080壁纸.rar
